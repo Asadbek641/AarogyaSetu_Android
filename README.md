@@ -1,4 +1,4 @@
-# Aarogya Setu Android app
+ Asadbek Otabekov # Aarogya Setu Android app
 
 ![alt text](./aarogya.png "AarogyaSetu Logo")
 
